@@ -4,6 +4,5 @@ class Player
     @genes = info[:genes]
     @color = info[:color]
     @armies = info[:armies]
-    @provinces = nil
   end
 end
